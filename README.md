@@ -1,4 +1,4 @@
-# 📸 Image Search & Random Image Gallery
+# 📸 Image Search Engine
 
 This web application allows users to search for high-quality images using the **Unsplash API**. It also features a **random image gallery** on the homepage. Users can load more images when searching for a specific query.
 
@@ -17,8 +17,7 @@ This web application allows users to search for high-quality images using the **
 ## 📌 How to Use
 1. Clone the repository  
    ```sh
-   git clone https://github.com/YOUR-USERNAME/IMAGE-SEARCH-APP.git
-   cd IMAGE-SEARCH-APP
+   git clone https://github.com/aryajhawar11/Image-Search-Engine.git
 2. Get an Unsplash API key
 
 3. Sign up at Unsplash Developers
